@@ -1,5 +1,5 @@
 # Overview #
-This repository is a port of pbrshumanoid from the Biomimetic Robotics Lab which itself is a port of legged_gym from the RSL research group
+This repository is a port of pbrshumanoid from the Biomimetic Robotics Lab, which itself is a port of legged_gym from the RSL research group
 
 ---
 
